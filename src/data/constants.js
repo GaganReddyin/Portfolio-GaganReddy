@@ -9,7 +9,7 @@ export const Bio = {
     "I thrive on adaptability, driven by a genuine love for learning and a relentless pursuit of excellence. With an optimistic outlook and an unwavering commitment to growth, I am excited to make a positive difference and pursue ambitious goals.",
   github: "https://github.com/GaganReddyin",
   resume:
-    "https://drive.google.com/file/d/1t8DeiWNL2_59o1FpH4Pw4AI_afw_hbdE/view",
+    "https://drive.google.com/file/d/1Uih2YDMwsRIg-k9WJ4adVEkVykSCZKWq/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/gaganreddymallam/",
   twitter: "https://twitter.com/GaganReddyM",
   insta: "https://www.instagram.com/gaganthougts/",
