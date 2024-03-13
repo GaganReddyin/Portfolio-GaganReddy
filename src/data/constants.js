@@ -10,7 +10,7 @@ export const Bio = {
   resume: "https://drive.google.com/file/d/1Uih2YDMwsRIg-k9WJ4adVEkVykSCZKWq/",
   linkedin: "https://www.linkedin.com/in/gaganreddymallam/",
   twitter: "https://twitter.com/GaganReddyM",
-  insta: "https://www.instagram.com/gaganthougts",
+  insta: "https://www.instagram.com/gaganthougts/",
 };
 
 export const skills = [
