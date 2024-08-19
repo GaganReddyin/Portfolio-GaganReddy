@@ -1,7 +1,10 @@
 # My Portfolio
-Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
+Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer. 
+
 
 ### Weblink: [Live Website](https://gaganreddymallam.netlify.app/)
+![image](https://github.com/user-attachments/assets/201402d5-e2ff-4728-89a9-2ba71b191f92)
+
 
 
 ## Table of Contents
