@@ -2,7 +2,7 @@
 Welcome to my portfolio!  
 
 
- 
+  
 ![image](https://github.com/user-attachments/assets/201402d5-e2ff-4728-89a9-2ba71b191f92)    
    
 
