@@ -7,7 +7,7 @@ Welcome to my portfolio!
      
 
 
-## Table of Contents 
+## Table of Contents  
 - [Introduction](#introduction) 
 - [Features](#features)  
 - [Technologies Used](#technologies-used)                 
